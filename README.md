@@ -23,7 +23,7 @@
 - 📸 Instagram: [instagram.com/mager_ngodingg](https://www.instagram.com/mager_ngodingg?igsh=MTBmM2p1OHozZTVlbg==)  
 - 🐦 Twitter: [twitter.com/fathialitakuna](https://x.com/LoneDarkWolfyy?t=rGvXs6b6XhPMZh0T_KFWTw&s=09)  
 - 💼 LinkedIn: [linkedin.com/in/fathialitakuna](https://www.linkedin.com/in/fathia-lk-b7522b309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_appa)  
-- 🌐 Portfolio/Website: [fathialitakuna.github.io](https://github.com/Fathialitakuna/WebPortofolio)  
+- 🌐 Portfolio/Website: [fathialitakuna.github.io](https://web-portofolio-six-lake.vercel.app/)  
 
 ![Wolf1](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z29pMWYyNzZhdmd1MTc4emE5bTRyc2xwc3J1dWh6eHh6c2c4Yjh0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2YoNKT0PYxHCHqrgzw/giphy.gif)
 
